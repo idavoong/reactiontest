@@ -2,3 +2,32 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.tracker {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid red;
+}
+
+.image {
+  width: 100px;
+  height: 100px;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.mainbox {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1500px;
+  height: 500px;
+  border: 3px solid blue;
+}
