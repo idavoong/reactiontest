@@ -31,3 +31,10 @@
   height: 500px;
   border: 3px solid blue;
 }
+
+.area {
+  display: block;
+  position: absolute;
+  top: 500px;
+  left: 220px;
+}
